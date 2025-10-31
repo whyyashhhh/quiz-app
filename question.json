@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which programming language runs in a web browser?",
+    "answers": [
+      { "text": "Java", "correct": false },
+      { "text": "C", "correct": false },
+      { "text": "Python", "correct": false },
+      { "text": "JavaScript", "correct": true }
+    ]
+  },
+  {
+    "question": "What does CSS stand for?",
+    "answers": [
+      { "text": "Central Style Sheets", "correct": false },
+      { "text": "Cascading Style Sheets", "correct": true },
+      { "text": "Computer Style Sheets", "correct": false },
+      { "text": "Creative Style System", "correct": false }
+    ]
+  },
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      { "text": "Hypertext Markup Language", "correct": true },
+      { "text": "Hypertext Markdown Language", "correct": false },
+      { "text": "Hyperloop Machine Language", "correct": false },
+      { "text": "Helicopters Terminals Motorboats Lamborghinis", "correct": false }
+    ]
+  },
+  {
+    "question": "What year was JavaScript launched?",
+    "answers": [
+      { "text": "1996", "correct": false },
+      { "text": "1995", "correct": true },
+      { "text": "1994", "correct": false },
+      { "text": "None of the above", "correct": false }
+    ]
+  }
+]
